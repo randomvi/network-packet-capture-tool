@@ -1,7 +1,7 @@
 # network-packet-capture-tool
 Windows Forms Network Packet Capture Tool #Old
 
-## Dependancies
+## Dependencies
 SharpPcap : A packet capture framework for .NETr
 
 ```
